@@ -1,0 +1,8 @@
+neuralspace
+textwrap
+ipython
+requests
+
+Additional Notes:
+1-API-Specific Libraries: This project uses neuralspace and ElevenLabs APIs, so be sure to replace placeholder API keys with your actual API keys in the code.
+2-File Structure: Some audio files are referenced (e.g., audio.ogg). Ensure they are correctly located or modify the paths as needed.
